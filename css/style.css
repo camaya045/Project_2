@@ -12,6 +12,28 @@ body {
   padding: 20px;
 }
 
+#home-page {
+  background-image: url('images/resume.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#resume-page {
+  background-image: url('images/resume.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#drawings-page {
+  background-image: url('images/art.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
 header {
   background: #333;
   color: #fff;

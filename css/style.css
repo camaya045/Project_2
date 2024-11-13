@@ -19,15 +19,18 @@ body {
 
 
 .home-page {
-  background-image: url('images/resume.jpg');
+  background: url('images/resume.jpg')no-repeat center center fixed;
+  background-size: cover;
 }
 
 .resume-page {
-  background-image: url('images/resume.jpg');
+  background: url('images/resume.jpg')no-repeat center center fixed;
+  background-size: cover;
 }
 
 .drawings-page {
-  background-image: url('images/art.jpg');
+  background: url('images/art.jpg')no-repeat center center fixed;
+  background-size: cover;
 }
 
 header {

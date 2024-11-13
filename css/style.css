@@ -12,8 +12,8 @@ body {
   padding: 20px;
 }
 
+/* Corrected ID selectors */
 #home-page {
-.home-page {
   background-image: url(images/resume.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -21,7 +21,6 @@ body {
 }
 
 #resume-page {
-.resume-page {
   background-image: url(images/resume.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -29,13 +28,11 @@ body {
 }
 
 #drawings-page {
-.drawings-page {
   background-image: url(images/art.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
 
 header {
   background: #333;

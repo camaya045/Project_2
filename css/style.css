@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 main {
-  max-height: 1000px;
+  max-height: 2000px;
   max-width: 1000px; /* Increase width of main content */
   margin: 20px auto;
   background: #fff;

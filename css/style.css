@@ -13,21 +13,21 @@ body {
 }
 
 #home-page {
-  background-image: url('images/resume.jpg');
+  background: url(images/resume.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 #resume-page {
-  background-image: url('images/resume.jpg');
+  background: url(images/resume.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 #drawings-page {
-  background-image: url('images/art.jpg');
+  background: url(images/art.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;

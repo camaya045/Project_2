@@ -12,26 +12,30 @@ body {
   padding: 20px;
 }
 
-#home-page {
-  background: url(images/resume.jpg);
-  background-size: cover;
+/* Background image for index.html */
+.index-page {
+  background-image: url('../images/resume.jpg'); 
+  background-size: cover; 
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
-#resume-page {
-  background: url(images/resume.jpg);
+/* Background image for drawings.html */
+.drawings-page {
+  background-image: url('../images/art.jpg'); 
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
-#drawings-page {
-  background: url(images/art.jpg);
+/* Background image for resume.html */
+.resume-page {
+  background-image: url('../images/resume.jpg'); 
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
+
 
 
 header {

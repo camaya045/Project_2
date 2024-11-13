@@ -32,6 +32,14 @@ body {
   background-attachment: fixed;
 }
 
+main {
+  max-width: 1000px; /* Increase width of main content */
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
 header {
   background: #333;
   color: #fff;
